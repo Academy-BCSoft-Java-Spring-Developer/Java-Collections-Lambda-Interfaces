@@ -1,0 +1,11 @@
+# Compilati di Eclipse / Java
+bin/
+*.class
+
+# File e cartelle di configurazione Eclipse
+.project
+.classpath
+.settings/
+
+# File di sistema macOS
+.DS_Store
